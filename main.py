@@ -24,4 +24,4 @@ async def mem(ctx):
 
 
 
-bot.run("MTEwNDY3NDAyMjc5NDQ2NTM4MA.G_wheh.XI-Ru1LEnymEXMSs4GfMK6wlOFVy_mWoILWH28")
+bot.run("токен")
